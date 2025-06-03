@@ -1,1 +1,1 @@
-# AR_Anatomy_App
+# AR Treasure Hunt
